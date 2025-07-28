@@ -85,8 +85,8 @@ The notebook provides evaluation metrics for the Linear Regression model:
 * **R-squared ($R^2$):** Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. A value closer to 1.0 indicates a better fit.
 
 --- Model Evaluation ---
-Mean Squared Error: 3069.81
-R-squared (R²): 0.40
+*Mean Squared Error: 3069.81
+*R-squared (R²): 0.40
 
 --- Example Prediction ---
 Data for new patient: [ 0.03807591  0.05068012  0.06169621  0.02187239 -0.0442235  -0.03482076
